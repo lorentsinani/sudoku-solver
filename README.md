@@ -12,7 +12,7 @@ This program is designed to solve Sudoku puzzles of varying difficulty levels us
 1. Clone this repository:
 
     ```bash
-    git clone https://github.com/your-username/sudoku-solver.git
+    git clone https://github.com/lorentsinani/sudoku-solver.git
     ```
 
 2. Navigate to the project directory:
